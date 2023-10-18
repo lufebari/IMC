@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <!-- Estilos específicos del tema oscuro -->
+    </style>
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light">
+        <!-- Estilos específicos del tema claro -->
+    </style>
+
+</resources>
